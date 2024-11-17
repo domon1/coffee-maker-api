@@ -9,5 +9,7 @@ public class CoffeeMakerApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CoffeeMakerApiApplication.class, args);
 	}
-
+	// TODO
+	// Контроллеры, репозитории, сущности
+	// Протестить
 }
