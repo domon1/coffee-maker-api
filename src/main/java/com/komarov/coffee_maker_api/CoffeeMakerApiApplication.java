@@ -10,6 +10,6 @@ public class CoffeeMakerApiApplication {
 		SpringApplication.run(CoffeeMakerApiApplication.class, args);
 	}
 	// TODO
-	// Контроллеры, репозитории, сущности
+	// Контроллеры, репозитории
 	// Протестить
 }
